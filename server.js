@@ -13,7 +13,7 @@ const corsOptions = {
     credentials: true, 
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"], 
-};
+};//
 app.use(cors(corsOptions));
 app.use("/user", userRoutes);
 app.use("/tpar", tparRoutes);

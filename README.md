@@ -8,6 +8,6 @@ FinWiz is the official Finance Club of NIT Warangal (NITW), dedicated to fosteri
 ✅ Secure & Scalable – Built using the MERN stack (MongoDB, Express.js, React.js, Node.js) for high performance and security.
 ✅ Real-time Data Access – View and manage participant information with ease, ensuring smooth event execution.
 
-🔗 Live Website: FinWiz Platform
+🔗 Live Website: https://finwiz-c5772.web.app/
 
 This platform is a one-stop solution for managing finance-related events at NITW, ensuring efficiency, accessibility, and engagement for both participants and administrators. 🚀📊
